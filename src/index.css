@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.rows {
+  border: 1px solid;
+}
+
+.columns {
+  border: 1px solid;
+  height: 50px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  .columns-a {
+    background-color: red;
+  }
+
+  .columns-b {
+    background-color: blue;
+    
+  }
+
+  .columns-c {
+    background-color: green;
+  }
+
+  .columns-d {
+    background-color:beige;
+  }
+
+  .columns-e {
+    background-color: pink;
+  }
+
+  .columns-f {
+    background-color:brown;
+  }
+
+  .columns-g {
+    background-color:violet;
+  }
+
+  .columns-h {
+    background-color:yellow;
+  }
+
+  .columns-i {
+    background-color:aqua;
+  }
+
+  .columns-j {
+    background-color:gray;
+  }
+
+  .columns-k {
+    background-color: orange;
+  }
+
+  .columns-l {
+    background-color:bisque;
+  }
+
+  .columns-m {
+    background-color:azure;
+  }
+
+  .columns-n {
+    background-color:chartreuse;
+  }
+
+  .columns-o {
+    background-color:chocolate;
+  }
+
+  .columns-p {
+    background-color:cadetblue;
+  }
+
+  
+
+
+  
+

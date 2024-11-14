@@ -43,7 +43,7 @@ const Grid = () => {
                     </Row>
                 </>
             )}
-
+            
             {gridSize === 4 && (
                 <>
                     <Row className="mb-3">
